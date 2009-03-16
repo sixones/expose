@@ -1,0 +1,35 @@
+================================================================================
+Installing Pepper
+--------------------------------------------------------------------------------
+
+1. Backup your Mint database
+
+2. Check that you made a backup of your Mint data
+
+3. Make sure your okay with installing bleeding edge web apps, Expose will be updated
+regularly until its in a more stable stage. You sure your okay with that?
+
+4. Upload the /expose/ directory and its contents to 
+/mint/pepper/84degrees/. If the directory /84degrees/ doesn't exist, create it.
+
+5. Login to your Mint installation and in the Preferences click "Install" under
+Pepper.
+
+6. Click the Expose Pepper "Install" button. Click "Okay."
+
+7. Once Pepper is installed, go to the Preferences for Expose, either enter a
+custom API key or click "Done" to generate a key.
+
+8. Go back into the Preferences and copy your API key into Firemint!
+
+================================================================================
+Additional Notes
+--------------------------------------------------------------------------------
+
+Requires a client, for API interaction details and example code snippets please see;
+
+http://84degrees.com/expose/
+
+Firemint is the first client to make use of the Expose API, more information is available here;
+
+http://84degrees.com/firemint/
